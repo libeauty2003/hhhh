@@ -1,0 +1,4 @@
+classes= 3
+train  = /home/limei/桌面/darknet/darknet-master/myData/myData_train.txt
+names = /home/limei/桌面/darknet/darknet-master/myData/myData.names
+backup = /home/limei/桌面/darknet/darknet-master/myData/weights
